@@ -2,6 +2,8 @@
 
 ![FreshSense AI Banner](./public/freshsense_banner.png)
 
+### 🚀 **Live Demo:** [Click Here to Try App](https://fresh-sense-l9ufbdjd1-selvaganapathys-projects-840a79fb.vercel.app)
+
 A production-ready computer vision web application that instantly assesses the freshness of fruits (apples, bananas, oranges) using advanced AI. Built with **React**, **Tailwind CSS**, and **Hugging Face Inference API**.
 
 ## ✨ Features
